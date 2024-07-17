@@ -14,14 +14,14 @@ This project is a web-based application that visually demonstrates various sorti
 
 ## How to Run
 Clone the repository:
-git clone https://github.com/DeekshaMalviya/sorting-visualizer.git
+git clone https://github.com/DeekshaMalviya/Sorting-Visualizer
 
 Copy code
-git clone https://github.com/DeekshaMalviya/sorting-visualizer.git
+git clone https://github.com/DeekshaMalviya/Sorting-Visualizer.git
 
 Open your browser and go to http://localhost:3000 to see the sorting visualizer in action.
 
 ## Technologies Used
-  React.js
-  HTML/CSS
-  JavaScript
+React.js
+HTML/CSS
+JavaScript
